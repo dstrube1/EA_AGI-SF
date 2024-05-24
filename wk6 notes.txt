@@ -1,0 +1,15 @@
+Week 6:
+Wu et al. (2021) use a combination of behavioural cloning and reinforcement learning to train a summarisation model; this combination was also used to train AlphaGo and AlphaStar. Explain why that’s better than using either by itself.
+-maze navigation: a rigid algorithm (like always go left first) + dice rolling (ie randomness) might get you there faster than a logical exhaustive search
+behavioral cloning - is that like genetic algorithm; 
+no. like imitation?
+
+A complex task like running a factory can be broken down into subtasks in a fairly straightforward way, allowing a large team of workers to perform much better than even an exceptionally talented individual. Describe a task where teams have much less of an advantage over the best individuals. Why doesn’t your task benefit as much from being broken down into subtasks? How might we change that?
+-creative tasks like story writing: ray bradbury, or jrr tolkein vs story by committee like star trek picard which had about a dozen producers
+
+To what extent does the honest debater have an advantage in Debate? 
+honesty = truth, that which comports with reality; if the judge is honest or concerned about what's real, then an honest debater's statements will align with the judge's perceptions
+
+Recursive reward modeling is one type of iterated amplification. Another is “imitative amplification”, where we use imitation learning rather than reward modeling at each step. How should we expect them to differ?
+-Recursive reward modeling may find unexpected behavior like the boat circling around endlessly
+imitative amplification may amplify the flaws of that which it imitates the flaws of the human being imitated

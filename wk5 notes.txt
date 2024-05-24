@@ -1,0 +1,6 @@
+behavioral cloning
+reward modeling
+inverse reinforcement learning
+	similarities:
+all require human feedback / input
+	differences:

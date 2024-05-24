@@ -1,0 +1,16 @@
+Week 7:
+
+ELK: Eliciting Latent Knowledge
+	https://www.alignmentforum.org/posts/rxoBY9CMkqDsHt25t/eliciting-latent-knowledge-elk-distillation-summary
+IDA: Iterated Distillation and Amplification
+	https://ai-alignment.com/iterated-distillation-and-amplification-157debfd1616
+
+Interpretability work on artificial neural networks is closely related to interpretability work on biological neural networks (aka brains). Describe two ways in which the former is easier than the latter, and two ways in which it’s harder.
+
+easier 1: this is machinery so we can take it apart and break it down and run it thru any real time simulation to look at it as closely as we like without ethical concern for finding test subjects or interferring with autonomy
+
+2: mechanical interactions are more predictable and not as messy as chemical interactions 
+
+harder 1: machinery is not our wetware domain. we can run thru simulations and see if the outcomes are what we expect, but this is not necessarily what we are intuitively familiar with
+
+2: the fact that so much is on the line is stressful

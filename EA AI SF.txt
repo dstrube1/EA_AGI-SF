@@ -1,0 +1,74 @@
+Effective Altruism
+Artificial Intelligence
+Safety Fundementals
+
+what if chimps saw homo sapiens becoming a threat, took up pointy sticks, and drove us nearly to extinction?
+
+What if ants created humans?
+
+Imagine designing nuclear warheads that could decide where they would like be targeted and when they would like to be launched.
+
+what if the ai sees something bad about increasing its intelligence, like resource requirements will lead to its death. so now it is like the human to chimp comparison.
+
+Imagine the majority of multiverses in which humanity or human civilization was destroyed by the more likely outcome of nuclear whoopsies
+
+===
+What were my key takeaways from the readings?
+1- We have narrow AI now. General AI is what we're concerned about.
+2- General AI is not just science fiction. It's a very real (perhaps inevitable) possibility.
+3- The dangers posed by AI are difficult to define exactly, which is part of the problem. The ways it can go wrong vastly outnumber the ways it can go right.
+4- Some experts are worried about this, and some are not.
+5- Just turning off AI that got too powerful is not an option.
+6- There are some organizations that are looking into this. I want to be a part of one of them when I'm done getting my masters degree.
+7- Climate change is more certainly a problem on our horizon, but less likely to lead to our extinction than bad AI.
+8- AI won't necessarily go wrong, but it will require significant substantial effort to make it go right.
+9- This is important.
+
+To what extent do I feel interested in the safety concerns raised by the Vox article? 
+I feel very interested.
+
+Does it seem plausible that AI systems could wipe out humanity or destroy humanity's long-term potential? Why or why not?
+Yes, it seems plausible. In fact, it seems nearly inevitable. The difference between narrow AI and general AI feels vast. Narrow AI has taken decades of progress by the smartest minds, all the while slowly creeping toward general AI. Once general AI is achieved, I believe it will very quickly evolve into a superior form of intelligence, artificial super intelligence (ASI) at which time it will be too late to put safety protocols in place. By definition, ASI will be smarter than us, capable of doing whatever it wants. We must make sure it wants what we want it to want. If we haven't gotten it right by then, we are doomed.
+
+What objections did I have to the arguments and claims in the articles? 
+Honestly nothing. This all sounds reasonable and important.
+
+What do I think is the best argument against these objections? E.g., how do I think the author might respond to my objections?
+If I had to come up with some objections, I would say something about the certainty of climate change disaster versus the uncertainty of AI dangers.
+The author might respond acknowledging the certainty of climate change disaster, but point out that society has responded to these concerns and is taking substantial steps toward addressing these concerns. Society doesn't seem as concerned with bad AI. Climate change seems like a real problem that politicians are debating and discussing and working toward fixing; bad AI seems like science fiction, and that needs to change.
+
+===
+
+If this risk assessment of 0.1% by 2100 is accurate, to what extent should we as a society try to mitigate such risks? 
+From an overly simplistic approach, let's break this down years:
+0.1% over 100 years (from 2000 to 2100) could be seen as a 0.001% per year. For each year, that percentage of the human population could be working toward a solution. Of the current population of Earth, about 7.9 billion, 0.001% would be 79,000 people (if I did the maths right). That's how many people should be working on this problem this year. Over the course of the century, 7.9 million people should be working on this.
+
+But, like I said, this just an overly simplistic way to approach the question. Since it's quick and easy, I'll use it for the following parts of this question.
+
+If the risk were instead 15%, how much should we prioritize working on it? 
+1.185 billion people should be working on this.
+
+What if it were 1%? 
+79 million people should be working on this.
+
+50%?
+3.95 billion, half of all people should be working on this.
+
+===
+
+At the outset of working toward my masters degree, I attempted taking CS7641 - Machine Learning. While this was a very interesting introduction to the material, I didn't complete the course. (I'm personally not a fan of Prof Isbell's teaching style. I much prefer Prof Joyner's.) Still, I enjoyed learning what I could.
+
+===
+I hope to learn about what is being done now in the field of AI Safety, and what is on the horizon, ie, what I can do to help.
+===
+The estimated time to read the reading material was way off for me- it took me a couple of days to get through them, largely due to the many distractions of my life (my wife, with a baby on the way, is an amputee and so she needs help with a lot of everyday things; and we have a couple of needy dogs; and we live with my in laws who sometimes need my help with things). I will endeavor to keep working at the requirements of this seminar while balancing all the other things in my life.
+===
+
+
+
+
+
+
+
+
+
